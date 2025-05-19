@@ -1,8 +1,0 @@
-streamlit
-euriai
-graphviz
-requests
-python-dotenv
-langchain
-pillow
-langgraph
